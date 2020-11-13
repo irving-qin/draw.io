@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T03:23:48.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="iWnFtG2PO7fWE472Xol1" version="13.9.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-13T03:32:29.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="dL6P49wSsAxugnLM8-VV" version="13.9.7" type="github" pages="2">
   <diagram id="5EhtU26LFunao_Nc3_9_" name="block">
     <mxGraphModel dx="1306" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -259,8 +259,8 @@
         <mxCell id="zD10eJVsCHMhNYYNWM0q-101" value="BN" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="454.5" y="840" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zD10eJVsCHMhNYYNWM0q-102" value="Skip-Connect" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="565" y="840" width="150" height="30" as="geometry" />
+        <mxCell id="zD10eJVsCHMhNYYNWM0q-102" value="Skip Connection" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="571" y="840" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zD10eJVsCHMhNYYNWM0q-103" value="" style="endArrow=none;html=1;strokeWidth=3;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -290,7 +290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zD10eJVsCHMhNYYNWM0q-110" value="y" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=0;fontSize=23;" parent="1" vertex="1">
-          <mxGeometry x="685" y="728.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="694" y="728.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zD10eJVsCHMhNYYNWM0q-117" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="174" y="724" width="20" height="20" as="geometry" />
@@ -372,8 +372,8 @@
         </mxCell>
         <mxCell id="nrNasHNi3d2uR7ftmimD-5" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=23;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="692.5" y="733.71" as="sourcePoint" />
-            <mxPoint x="707.5" y="733.71" as="targetPoint" />
+            <mxPoint x="701.5" y="733.71" as="sourcePoint" />
+            <mxPoint x="716.5" y="733.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
