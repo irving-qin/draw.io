@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T04:30:10.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="uW2Y5HcA7zxptfG-x--d" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-09T05:52:36.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="5LR_fvfPIPTsEowQGj8A" version="14.2.7" type="github" pages="3">
   <diagram id="5EhtU26LFunao_Nc3_9_" name="block">
     <mxGraphModel dx="1110" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -595,7 +595,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="le-PjPvL-uK2lIEkszq5" name="Quantization-aware Norm">
-    <mxGraphModel dx="149" dy="77" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_Z8Ziu4xH_4bffeW7swy-0" />
         <mxCell id="_Z8Ziu4xH_4bffeW7swy-1" parent="_Z8Ziu4xH_4bffeW7swy-0" />
@@ -647,7 +647,7 @@
             <mxPoint x="128" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="exuOk6noSG6OKBUQ7X1I-9" value="&lt;font style=&quot;font-size: 24px&quot;&gt;QAN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="_Z8Ziu4xH_4bffeW7swy-1">
+        <mxCell id="exuOk6noSG6OKBUQ7X1I-9" value="&lt;font style=&quot;font-size: 24px&quot;&gt;BN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=0;strokeWidth=3;" vertex="1" parent="_Z8Ziu4xH_4bffeW7swy-1">
           <mxGeometry x="200" y="340" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exuOk6noSG6OKBUQ7X1I-10" value="" style="endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="_Z8Ziu4xH_4bffeW7swy-1">
