@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T04:29:25.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="5HtUZVYpabLFTJBqDO1J" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-09T04:30:10.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="uW2Y5HcA7zxptfG-x--d" version="14.2.7" type="github" pages="3">
   <diagram id="5EhtU26LFunao_Nc3_9_" name="block">
     <mxGraphModel dx="1110" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -595,7 +595,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="le-PjPvL-uK2lIEkszq5" name="Quantization-aware Norm">
-    <mxGraphModel dx="1110" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="149" dy="77" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_Z8Ziu4xH_4bffeW7swy-0" />
         <mxCell id="_Z8Ziu4xH_4bffeW7swy-1" parent="_Z8Ziu4xH_4bffeW7swy-0" />
@@ -658,6 +658,12 @@
         </mxCell>
         <mxCell id="Si6ENw6a0DLWr_pJYg7W-11" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;glass=0;sketch=0;strokeWidth=3;rotation=45;" vertex="1" parent="_Z8Ziu4xH_4bffeW7swy-1">
           <mxGeometry x="118.99" y="386.24" width="17.95" height="17.86" as="geometry" />
+        </mxCell>
+        <mxCell id="Si6ENw6a0DLWr_pJYg7W-13" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_Z8Ziu4xH_4bffeW7swy-1" source="Si6ENw6a0DLWr_pJYg7W-11" target="FJIUwDX7YiBP-0L_vtvw-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.99999999999994" y="400.09999999999997" as="sourcePoint" />
+            <mxPoint x="150.12" y="416" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
