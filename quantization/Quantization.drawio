@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T00:36:45.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="yemixOVJS9eDdL2lBRFz" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-09T00:37:18.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="QILQhSlIPGTg3pxpA55D" version="14.2.7" type="github" pages="3">
   <diagram id="5EhtU26LFunao_Nc3_9_" name="block">
     <mxGraphModel dx="1110" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -601,7 +601,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="le-PjPvL-uK2lIEkszq5" name="Quantization-aware Norm">
-    <mxGraphModel dx="766" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="290" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_Z8Ziu4xH_4bffeW7swy-0" />
         <mxCell id="_Z8Ziu4xH_4bffeW7swy-1" parent="_Z8Ziu4xH_4bffeW7swy-0" />
@@ -650,7 +650,7 @@
             <mxPoint x="238" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="exuOk6noSG6OKBUQ7X1I-5" value="" style="endArrow=none;html=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_Z8Ziu4xH_4bffeW7swy-1" source="FJIUwDX7YiBP-0L_vtvw-4" target="exuOk6noSG6OKBUQ7X1I-2">
+        <mxCell id="exuOk6noSG6OKBUQ7X1I-5" value="" style="endArrow=none;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_Z8Ziu4xH_4bffeW7swy-1" source="FJIUwDX7YiBP-0L_vtvw-4" target="exuOk6noSG6OKBUQ7X1I-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="176" y="460" as="sourcePoint" />
             <mxPoint x="266" y="460" as="targetPoint" />
