@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-01T05:48:00.939Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="UxXHZufWtmGV1Dt0j_bC" version="14.7.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-01T05:50:06.512Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="9UL7zQ1OIi_xuyzU_Mnm" version="14.7.3" type="github" pages="5">
   <diagram id="5EhtU26LFunao_Nc3_9_" name="block">
     <mxGraphModel dx="1939" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -921,7 +921,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n0SROdtt97U6QzZWdrH3" name="Page-5">
-    <mxGraphModel dx="1763" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8MVtoR53NyU8q-ZzVclh-0" />
         <mxCell id="8MVtoR53NyU8q-ZzVclh-1" parent="8MVtoR53NyU8q-ZzVclh-0" />
@@ -1039,7 +1039,7 @@
             <mxPoint x="265.5" y="240.71000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qug2_Ltg4Ah9_YUIRVU6-46" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=5;" vertex="1" parent="8MVtoR53NyU8q-ZzVclh-1">
+        <mxCell id="Qug2_Ltg4Ah9_YUIRVU6-46" value="First layer" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=5;" vertex="1" parent="8MVtoR53NyU8q-ZzVclh-1">
           <mxGeometry x="-536.5" y="160" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Qug2_Ltg4Ah9_YUIRVU6-49" value="" style="endArrow=classic;html=1;strokeWidth=3;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="8MVtoR53NyU8q-ZzVclh-1">
@@ -1105,7 +1105,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qug2_Ltg4Ah9_YUIRVU6-72" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8MVtoR53NyU8q-ZzVclh-1" source="Qug2_Ltg4Ah9_YUIRVU6-70">
+        <mxCell id="Qug2_Ltg4Ah9_YUIRVU6-72" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="8MVtoR53NyU8q-ZzVclh-1" source="Qug2_Ltg4Ah9_YUIRVU6-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="180" as="sourcePoint" />
             <mxPoint x="-30" y="190" as="targetPoint" />
@@ -1179,6 +1179,9 @@
             <mxPoint x="286" y="427" as="sourcePoint" />
             <mxPoint x="293" y="427" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qug2_Ltg4Ah9_YUIRVU6-92" value="featuremap currently is&amp;nbsp; usigned 4bit, it is possbile to convert to signed 4bit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="8MVtoR53NyU8q-ZzVclh-1">
+          <mxGeometry x="60" y="66" width="145" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
